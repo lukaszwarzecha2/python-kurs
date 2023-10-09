@@ -1,0 +1,5 @@
+hello.txt
+#ignoruje pliki z rozszerzeniami .pyc
+*.pyc
+.idea/
+#generatory gitignore/gitignore generator
